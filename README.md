@@ -1,5 +1,5 @@
 # prak-jarkom
-Nama  : Bintang Citra Kusumaatmaja
-NIM   : L200170078
-Kelas : B
-Modul : 1
+Nama  : Bintang Citra Kusumaatmaja<br>
+NIM   : L200170078<br>
+Kelas : B<br>
+Modul : 1<br>

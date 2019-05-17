@@ -13,3 +13,5 @@ Kumpulan Laporan dan Tugas Praktikum Jaringan Komunikasi.<br>
 [3] MODUL-4 : Berisi Laporan Kegiatan dan Tugas Praktikum<br>
 [4] MODUL-5 : Berisi Laporan Kegiatan dan Tugas Praktikum<br>
 [5] MODUL-6 : Berisi Laporan Kegiatan dan Tugas Praktikum<br>
+[6] MODUL-7 : Berisi Laporan Kegiatan dan Tugas Praktikum<br>
+[7] MODUL-8 : Berisi Laporan Kegiatan dan Tugas Praktikum<br>
